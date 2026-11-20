@@ -1,0 +1,20 @@
+{
+  "hybrid_retrieval_only": {
+    "hit@1": 0.933,
+    "hit@3": 1.0,
+    "mrr": 0.967,
+    "answer_accuracy": 0.933,
+    "refusal_accuracy": 1.0,
+    "n_answerable": 30,
+    "n_unanswerable": 5
+  },
+  "hybrid_plus_rerank": {
+    "hit@1": 0.967,
+    "hit@3": 1.0,
+    "mrr": 0.983,
+    "answer_accuracy": 0.933,
+    "refusal_accuracy": 1.0,
+    "n_answerable": 30,
+    "n_unanswerable": 5
+  }
+}

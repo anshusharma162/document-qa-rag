@@ -1,0 +1,35 @@
+{"question": "How many days of annual leave do employees earn per year?", "section": "Annual (earned) leave", "answer_contains": "18 days"}
+{"question": "How many unused leave days can be carried forward?", "section": "Annual (earned) leave", "answer_contains": "10"}
+{"question": "By when must carried-forward leave be used?", "section": "Annual (earned) leave", "answer_contains": "30 June"}
+{"question": "How far in advance must I request a week of leave?", "section": "Annual (earned) leave", "answer_contains": "14 calendar days"}
+{"question": "How many leave days can be encashed each year?", "section": "Annual (earned) leave", "answer_contains": "5 days"}
+{"question": "When is a medical certificate required?", "section": "Sick leave", "answer_contains": "more than two consecutive days"}
+{"question": "How many paid sick days do I get?", "section": "Sick leave", "answer_contains": "8 days"}
+{"question": "How long is maternity leave?", "section": "Parental leave", "answer_contains": "26 weeks"}
+{"question": "How much leave do adoptive parents get?", "section": "Parental leave", "answer_contains": "4 weeks"}
+{"question": "How many days a week must hybrid employees be in the office?", "section": "Working hours", "answer_contains": "two days"}
+{"question": "What are core collaboration hours?", "section": "Working hours", "answer_contains": "11:00"}
+{"question": "What is the minimum password length?", "section": "Passwords and authentication", "answer_contains": "14 characters"}
+{"question": "When does a locked account unlock automatically?", "section": "Passwords and authentication", "answer_contains": "30 minutes"}
+{"question": "How quickly must critical security updates be installed?", "section": "Devices", "answer_contains": "48 hours"}
+{"question": "After how many minutes must the screen lock?", "section": "Devices", "answer_contains": "5 minutes"}
+{"question": "How soon must a security incident be reported?", "section": "Incident reporting", "answer_contains": "1 hour"}
+{"question": "How should I verify a request to change vendor bank details?", "section": "Email and phishing", "answer_contains": "phone call"}
+{"question": "Can I upload confidential data to a public AI chat tool?", "section": "Data classification", "answer_contains": "must not"}
+{"question": "Which flight class is allowed for domestic flights?", "section": "Air travel", "answer_contains": "economy"}
+{"question": "Who must approve business class tickets?", "section": "Air travel", "answer_contains": "CFO"}
+{"question": "What is the hotel limit per night in Chennai?", "section": "Hotels", "answer_contains": "7,500"}
+{"question": "What is the mileage rate for a two-wheeler?", "section": "Rail and local transport", "answer_contains": "\u20b96"}
+{"question": "Within how many days must expense claims be submitted?", "section": "Submitting claims", "answer_contains": "30 days"}
+{"question": "Is alcohol reimbursable?", "section": "Meals and daily allowance", "answer_contains": "never"}
+{"question": "How much does the Starter plan cost?", "section": "Plans and pricing", "answer_contains": "999"}
+{"question": "How long is the LedgerLite free trial?", "section": "Plans and pricing", "answer_contains": "21-day"}
+{"question": "Which accounting software does LedgerLite sync with?", "section": "Features", "answer_contains": "Tally"}
+{"question": "What is the API rate limit?", "section": "Features", "answer_contains": "600 requests"}
+{"question": "How long is data kept after a customer cancels?", "section": "Data and security", "answer_contains": "90 days"}
+{"question": "Can annual plans be refunded?", "section": "Support", "answer_contains": "30 days"}
+{"question": "What is the CEO's salary?", "section": null, "answer_contains": null}
+{"question": "What is the office parking policy?", "section": null, "answer_contains": null}
+{"question": "Who won the cricket world cup?", "section": null, "answer_contains": null}
+{"question": "What is the company's stock price today?", "section": null, "answer_contains": null}
+{"question": "What is the dress code?", "section": null, "answer_contains": null}
